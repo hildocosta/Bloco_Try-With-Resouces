@@ -48,4 +48,6 @@ public class Main {
 
 <p>Neste exemplo, o bloco try-with-resources é usado para abrir e ler um arquivo de texto. O recurso <code>BufferedReader</code> é inicializado dentro do bloco try, e será fechado automaticamente após o término do bloco, garantindo que os recursos sejam liberados de forma automática e segura.</p>
 
+<p>É um bloco try que declara um ou mais recursos, e garante que esses recursos serão fechados ao final do bloco.</p>
+
 <p>Agora que você entende como usar o bloco try-with-resources em Java, experimente aplicá-lo em seus próprios programas para garantir o gerenciamento eficiente de recursos!</p>
